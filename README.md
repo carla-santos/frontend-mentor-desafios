@@ -14,4 +14,4 @@ Os desafios estão em desenvolvimento 🚧
 
 | Desafio | Descrição | Repositório        | Link          |
 | ------- | :-------: | :----------------- | :------------ |
-| Cartão  | Produtos  | [Cartão produto]() | [🔗 Cartão]() |
+| Cartão  | Produtos  | [Cartão produto](https://github.com/carla-santos/frontend-mentor-desafios/tree/main/1-product-preview-card-component-main) | [🔗 Cartão](https://carla-santos-frontend-mentor.netlify.app/1-product-preview-card-component-main/index.html) |

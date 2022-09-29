@@ -30,7 +30,7 @@ Os usuários deverão ser capazes de:
 
 ### Links
 
-- Site: [Veja ao vivo]()
+- Site: [Veja ao vivo](https://carla-santos-frontend-mentor.netlify.app/1-product-preview-card-component-main/index.html)
 
 ## Meu processo
 
